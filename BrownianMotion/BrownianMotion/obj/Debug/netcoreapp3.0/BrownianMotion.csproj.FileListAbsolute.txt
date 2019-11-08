@@ -1,0 +1,11 @@
+D:\Projects\BrownianMotion\BrownianMotion\bin\Debug\netcoreapp3.0\BrownianMotion.exe
+D:\Projects\BrownianMotion\BrownianMotion\bin\Debug\netcoreapp3.0\BrownianMotion.deps.json
+D:\Projects\BrownianMotion\BrownianMotion\bin\Debug\netcoreapp3.0\BrownianMotion.runtimeconfig.json
+D:\Projects\BrownianMotion\BrownianMotion\bin\Debug\netcoreapp3.0\BrownianMotion.runtimeconfig.dev.json
+D:\Projects\BrownianMotion\BrownianMotion\bin\Debug\netcoreapp3.0\BrownianMotion.dll
+D:\Projects\BrownianMotion\BrownianMotion\bin\Debug\netcoreapp3.0\BrownianMotion.pdb
+D:\Projects\BrownianMotion\BrownianMotion\obj\Debug\netcoreapp3.0\BrownianMotion.csprojAssemblyReference.cache
+D:\Projects\BrownianMotion\BrownianMotion\obj\Debug\netcoreapp3.0\BrownianMotion.AssemblyInfoInputs.cache
+D:\Projects\BrownianMotion\BrownianMotion\obj\Debug\netcoreapp3.0\BrownianMotion.AssemblyInfo.cs
+D:\Projects\BrownianMotion\BrownianMotion\obj\Debug\netcoreapp3.0\BrownianMotion.dll
+D:\Projects\BrownianMotion\BrownianMotion\obj\Debug\netcoreapp3.0\BrownianMotion.pdb
